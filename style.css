@@ -241,3 +241,9 @@ td, th {
 .itens:before{
 	content:"★";
 }
+
+@media screen and (max-width:480px){
+	body{
+		background:red;
+	}
+}
